@@ -154,6 +154,7 @@ ON table1.column = table2.column;
 
 ```sql
 -- Paste your SQL code below for Question 9
+
 ```
 
 **Output:**
